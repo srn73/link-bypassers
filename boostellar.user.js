@@ -4,7 +4,7 @@
 // @version      2025-06-14
 // @description  Bypass Boostellar links instantly!
 // @author       srn73
-// @match        https://bstlar.com/2l/*
+// @match        https://bstlar.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bstlar.com
 // @grant        none
 // ==/UserScript==
